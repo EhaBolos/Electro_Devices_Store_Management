@@ -1,0 +1,21 @@
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+

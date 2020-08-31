@@ -1,0 +1,1280 @@
+!Items in store!
+================
+
+Laptop
+--------
+Model >> AppleMacBook
+manufacture name >> Apple
+proccessor >> AMDa10
+motherboard >> X3OL
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> gray
+quantity >> 20
+price >> 8000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AsusVivoBook
+manufacture name >> Asus
+proccessor >> INTELi7
+motherboard >> X302LA
+storage >> GB256
+hard disk >> SSD
+opearation system >> WINDOWS
+color >> black
+quantity >> 15
+price >> 5300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AppleMacBookPro
+manufacture name >> Apple
+proccessor >> AMDa8
+motherboard >> J304LA
+storage >> GB128
+hard disk >> SCSI
+opearation system >> MACoS
+color >> white
+quantity >> 8
+price >> 8500
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> HPproBook
+manufacture name >> Hp
+proccessor >> INTELi5
+motherboard >> MX330
+storage >> GB500
+hard disk >> SATA
+opearation system >> WINDOWS
+color >> black
+quantity >> 9
+price >> 3700
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> sGalaxyTapS2
+manufacture name >> Samsung
+proccessor >> AMDa6
+motherboard >> TabA8.0
+storage >> GB32
+hard disk >> HDD
+opearation system >> ANDROID
+color >> white
+quantity >> 35
+price >> 3200
+thicness >> 5.55
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 800
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> LenovoTabM8
+manufacture name >> Lenovo
+proccessor >> AMDa4
+motherboard >> LsA8.55
+storage >> GB64
+hard disk >> EIDE
+opearation system >> ANDROID
+color >> white
+quantity >> 45
+price >> 3000
+thicness >> 5.32
+camera
+--------
+model >> tWideCam
+pixels >> 3
+zoom >> 2
+focus >> 2
+price >> 790
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> NVIDIA
+motherboard >> MacPr863.1
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> black
+quantity >> 12
+price >> 4000
+thicness >> 6.22
+camera
+--------
+model >> tUltraWideCam
+pixels >> 5
+zoom >> 5
+focus >> 4
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+--------
+Model >> iphoneXr
+manufacture name >> Apple
+proccessor >> A8
+motherboard >> Ip309
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 60
+price >> 3700
+thicness >> 4.2
+camera
+--------
+model >> DualWideTelephotoCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1600
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+--------
+Model >> SGnote10Plus
+manufacture name >> Samsung
+proccessor >> NVIDIA
+motherboard >> AM4MICRO-ATS
+storage >> GB128
+opearation system >> ANDROID
+color >> black
+quantity >> 36
+price >> 4300
+thicness >> 4.22
+camera
+--------
+model >> TripleCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+--------
+Model >> iphoneXsMax
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ios-A98.2
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 20
+price >> 5600
+thicness >> 4.17
+camera
+--------
+model >> TripleCam
+pixels >> 7
+zoom >> 5
+focus >> 5
+price >> 2000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+--------
+Model >> XiaomiNote4x
+manufacture name >> Xiaomi
+proccessor >> AMDa6
+motherboard >> AM4MACXI98
+storage >> GB256
+opearation system >> ANDROID
+color >> white
+quantity >> 30
+price >> 3400
+thicness >> 4.11
+camera
+--------
+model >> SingleWideCam
+pixels >> 3
+zoom >> 3
+focus >> 2
+price >> 900
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+
+!Items in store!
+================
+
+Laptop
+--------
+Model >> AppleMacBook
+manufacture name >> Apple
+proccessor >> AMDa10
+motherboard >> X3OL
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> gray
+quantity >> 20
+price >> 8000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AsusVivoBook
+manufacture name >> Asus
+proccessor >> INTELi7
+motherboard >> X302LA
+storage >> GB256
+hard disk >> SSD
+opearation system >> WINDOWS
+color >> black
+quantity >> 15
+price >> 5300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AppleMacBookPro
+manufacture name >> Apple
+proccessor >> AMDa8
+motherboard >> J304LA
+storage >> GB128
+hard disk >> SCSI
+opearation system >> MACoS
+color >> white
+quantity >> 8
+price >> 8500
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> HPproBook
+manufacture name >> Hp
+proccessor >> INTELi5
+motherboard >> MX330
+storage >> GB500
+hard disk >> SATA
+opearation system >> WINDOWS
+color >> black
+quantity >> 9
+price >> 3700
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> sGalaxyTapS2
+manufacture name >> Samsung
+proccessor >> AMDa6
+motherboard >> TabA8.0
+storage >> GB32
+hard disk >> HDD
+opearation system >> ANDROID
+color >> white
+quantity >> 35
+price >> 3200
+thicness >> 5.55
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 800
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> LenovoTabM8
+manufacture name >> Lenovo
+proccessor >> AMDa4
+motherboard >> LsA8.55
+storage >> GB64
+hard disk >> EIDE
+opearation system >> ANDROID
+color >> white
+quantity >> 45
+price >> 3000
+thicness >> 5.32
+camera
+--------
+model >> tWideCam
+pixels >> 3
+zoom >> 2
+focus >> 2
+price >> 790
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> NVIDIA
+motherboard >> MacPr863.1
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> black
+quantity >> 12
+price >> 4000
+thicness >> 6.22
+camera
+--------
+model >> tUltraWideCam
+pixels >> 5
+zoom >> 5
+focus >> 4
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXr
+manufacture name >> Apple
+proccessor >> A8
+motherboard >> Ip309
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 60
+price >> 3700
+thicness >> 4.2
+camera
+--------
+model >> DualWideTelephotoCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1600
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> SGnote10Plus
+manufacture name >> Samsung
+proccessor >> NVIDIA
+motherboard >> AM4MICRO-ATS
+storage >> GB128
+opearation system >> ANDROID
+color >> black
+quantity >> 36
+price >> 4300
+thicness >> 4.22
+camera
+--------
+model >> TripleCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXsMax
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ios-A98.2
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 20
+price >> 5600
+thicness >> 4.17
+camera
+--------
+model >> TripleCam
+pixels >> 7
+zoom >> 5
+focus >> 5
+price >> 2000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> XiaomiNote4x
+manufacture name >> Xiaomi
+proccessor >> AMDa6
+motherboard >> AM4MACXI98
+storage >> GB256
+opearation system >> ANDROID
+color >> white
+quantity >> 30
+price >> 3400
+thicness >> 4.11
+camera
+--------
+model >> SingleWideCam
+pixels >> 3
+zoom >> 3
+focus >> 2
+price >> 900
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+
+!Items in store!
+================
+
+Laptop
+--------
+Model >> AppleMacBook
+manufacture name >> Apple
+proccessor >> AMDa10
+motherboard >> X3OL
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> gray
+quantity >> 20
+price >> 8000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AsusVivoBook
+manufacture name >> Asus
+proccessor >> INTELi7
+motherboard >> X302LA
+storage >> GB256
+hard disk >> SSD
+opearation system >> WINDOWS
+color >> black
+quantity >> 15
+price >> 5300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AppleMacBookPro
+manufacture name >> Apple
+proccessor >> AMDa8
+motherboard >> J304LA
+storage >> GB128
+hard disk >> SCSI
+opearation system >> MACoS
+color >> white
+quantity >> 8
+price >> 8500
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> HPproBook
+manufacture name >> Hp
+proccessor >> INTELi5
+motherboard >> MX330
+storage >> GB500
+hard disk >> SATA
+opearation system >> WINDOWS
+color >> black
+quantity >> 9
+price >> 3700
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> sGalaxyTapS2
+manufacture name >> Samsung
+proccessor >> AMDa6
+motherboard >> TabA8.0
+storage >> GB32
+hard disk >> HDD
+opearation system >> ANDROID
+color >> white
+quantity >> 35
+price >> 3200
+thicness >> 5.55
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 800
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> LenovoTabM8
+manufacture name >> Lenovo
+proccessor >> AMDa4
+motherboard >> LsA8.55
+storage >> GB64
+hard disk >> EIDE
+opearation system >> ANDROID
+color >> white
+quantity >> 45
+price >> 3000
+thicness >> 5.32
+camera
+--------
+model >> tWideCam
+pixels >> 3
+zoom >> 2
+focus >> 2
+price >> 790
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> NVIDIA
+motherboard >> MacPr863.1
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> black
+quantity >> 12
+price >> 4000
+thicness >> 6.22
+camera
+--------
+model >> tUltraWideCam
+pixels >> 5
+zoom >> 5
+focus >> 4
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXr
+manufacture name >> Apple
+proccessor >> A8
+motherboard >> Ip309
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 60
+price >> 3700
+thicness >> 4.2
+camera
+--------
+model >> DualWideTelephotoCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1600
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> SGnote10Plus
+manufacture name >> Samsung
+proccessor >> NVIDIA
+motherboard >> AM4MICRO-ATS
+storage >> GB128
+opearation system >> ANDROID
+color >> black
+quantity >> 36
+price >> 4300
+thicness >> 4.22
+camera
+--------
+model >> TripleCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXsMax
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ios-A98.2
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 20
+price >> 5600
+thicness >> 4.17
+camera
+--------
+model >> TripleCam
+pixels >> 7
+zoom >> 5
+focus >> 5
+price >> 2000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> XiaomiNote4x
+manufacture name >> Xiaomi
+proccessor >> AMDa6
+motherboard >> AM4MACXI98
+storage >> GB256
+opearation system >> ANDROID
+color >> white
+quantity >> 30
+price >> 3400
+thicness >> 4.11
+camera
+--------
+model >> SingleWideCam
+pixels >> 3
+zoom >> 3
+focus >> 2
+price >> 900
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+
+!Items in store!
+================
+
+Laptop
+--------
+Model >> AppleMacBook
+manufacture name >> Apple
+proccessor >> AMDa10
+motherboard >> X3OL
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> gray
+quantity >> 20
+price >> 8000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AsusVivoBook
+manufacture name >> Asus
+proccessor >> INTELi7
+motherboard >> X302LA
+storage >> GB256
+hard disk >> SSD
+opearation system >> WINDOWS
+color >> black
+quantity >> 15
+price >> 5300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AppleMacBookPro
+manufacture name >> Apple
+proccessor >> AMDa8
+motherboard >> J304LA
+storage >> GB128
+hard disk >> SCSI
+opearation system >> MACoS
+color >> white
+quantity >> 8
+price >> 8500
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> HPproBook
+manufacture name >> Hp
+proccessor >> INTELi5
+motherboard >> MX330
+storage >> GB500
+hard disk >> SATA
+opearation system >> WINDOWS
+color >> black
+quantity >> 9
+price >> 3700
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> sGalaxyTapS2
+manufacture name >> Samsung
+proccessor >> AMDa6
+motherboard >> TabA8.0
+storage >> GB32
+hard disk >> HDD
+opearation system >> ANDROID
+color >> white
+quantity >> 35
+price >> 3200
+thicness >> 5.55
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 800
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> LenovoTabM8
+manufacture name >> Lenovo
+proccessor >> AMDa4
+motherboard >> LsA8.55
+storage >> GB64
+hard disk >> EIDE
+opearation system >> ANDROID
+color >> white
+quantity >> 45
+price >> 3000
+thicness >> 5.32
+camera
+--------
+model >> tWideCam
+pixels >> 3
+zoom >> 2
+focus >> 2
+price >> 790
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> NVIDIA
+motherboard >> MacPr863.1
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> black
+quantity >> 12
+price >> 4000
+thicness >> 6.22
+camera
+--------
+model >> tUltraWideCam
+pixels >> 5
+zoom >> 5
+focus >> 4
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXr
+manufacture name >> Apple
+proccessor >> A8
+motherboard >> Ip309
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 60
+price >> 3700
+thicness >> 4.2
+camera
+--------
+model >> DualWideTelephotoCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1600
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> SGnote10Plus
+manufacture name >> Samsung
+proccessor >> NVIDIA
+motherboard >> AM4MICRO-ATS
+storage >> GB128
+opearation system >> ANDROID
+color >> black
+quantity >> 36
+price >> 4300
+thicness >> 4.22
+camera
+--------
+model >> TripleCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXsMax
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ios-A98.2
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 20
+price >> 5600
+thicness >> 4.17
+camera
+--------
+model >> TripleCam
+pixels >> 7
+zoom >> 5
+focus >> 5
+price >> 2000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> XiaomiNote4x
+manufacture name >> Xiaomi
+proccessor >> AMDa6
+motherboard >> AM4MACXI98
+storage >> GB256
+opearation system >> ANDROID
+color >> white
+quantity >> 30
+price >> 3400
+thicness >> 4.11
+camera
+--------
+model >> SingleWideCam
+pixels >> 3
+zoom >> 3
+focus >> 2
+price >> 900
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+
+!Items in store!
+================
+
+Laptop
+--------
+Model >> AppleMacBook
+manufacture name >> Apple
+proccessor >> AMDa10
+motherboard >> X3OL
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> gray
+quantity >> 20
+price >> 8000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AsusVivoBook
+manufacture name >> Asus
+proccessor >> INTELi7
+motherboard >> X302LA
+storage >> GB256
+hard disk >> SSD
+opearation system >> WINDOWS
+color >> black
+quantity >> 15
+price >> 5300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> AppleMacBookPro
+manufacture name >> Apple
+proccessor >> AMDa8
+motherboard >> J304LA
+storage >> GB128
+hard disk >> SCSI
+opearation system >> MACoS
+color >> white
+quantity >> 8
+price >> 8500
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Laptop
+--------
+Model >> HPproBook
+manufacture name >> Hp
+proccessor >> INTELi5
+motherboard >> MX330
+storage >> GB500
+hard disk >> SATA
+opearation system >> WINDOWS
+color >> black
+quantity >> 9
+price >> 3700
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ts34
+storage >> GB16
+hard disk >> PATA
+opearation system >> IOS
+color >> black
+quantity >> 55
+price >> 4500
+thicness >> 6.33
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> sGalaxyTapS2
+manufacture name >> Samsung
+proccessor >> AMDa6
+motherboard >> TabA8.0
+storage >> GB32
+hard disk >> HDD
+opearation system >> ANDROID
+color >> white
+quantity >> 35
+price >> 3200
+thicness >> 5.55
+camera
+--------
+model >> tUltraWideCam
+pixels >> 4
+zoom >> 3
+focus >> 3
+price >> 800
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> LenovoTabM8
+manufacture name >> Lenovo
+proccessor >> AMDa4
+motherboard >> LsA8.55
+storage >> GB64
+hard disk >> EIDE
+opearation system >> ANDROID
+color >> white
+quantity >> 45
+price >> 3000
+thicness >> 5.32
+camera
+--------
+model >> tWideCam
+pixels >> 3
+zoom >> 2
+focus >> 2
+price >> 790
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+Tablet
+--------
+Model >> iPadPro
+manufacture name >> Apple
+proccessor >> NVIDIA
+motherboard >> MacPr863.1
+storage >> GB256
+hard disk >> PATA
+opearation system >> MACoS
+color >> black
+quantity >> 12
+price >> 4000
+thicness >> 6.22
+camera
+--------
+model >> tUltraWideCam
+pixels >> 5
+zoom >> 5
+focus >> 4
+price >> 1200
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXr
+manufacture name >> Apple
+proccessor >> A8
+motherboard >> Ip309
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 60
+price >> 3700
+thicness >> 4.2
+camera
+--------
+model >> DualWideTelephotoCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1600
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> SGnote10Plus
+manufacture name >> Samsung
+proccessor >> NVIDIA
+motherboard >> AM4MICRO-ATS
+storage >> GB128
+opearation system >> ANDROID
+color >> black
+quantity >> 36
+price >> 4300
+thicness >> 4.22
+camera
+--------
+model >> TripleCam
+pixels >> 6
+zoom >> 5
+focus >> 4
+price >> 1300
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> iphoneXsMax
+manufacture name >> Apple
+proccessor >> A9
+motherboard >> Ios-A98.2
+storage >> GB500
+opearation system >> IOS
+color >> white
+quantity >> 20
+price >> 5600
+thicness >> 4.17
+camera
+--------
+model >> TripleCam
+pixels >> 7
+zoom >> 5
+focus >> 5
+price >> 2000
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+CellPhone
+----------
+Model >> XiaomiNote4x
+manufacture name >> Xiaomi
+proccessor >> AMDa6
+motherboard >> AM4MACXI98
+storage >> GB256
+opearation system >> ANDROID
+color >> white
+quantity >> 30
+price >> 3400
+thicness >> 4.11
+camera
+--------
+model >> SingleWideCam
+pixels >> 3
+zoom >> 3
+focus >> 2
+price >> 900
+
+///////////////////////////////////////
+///////////////////////////////////////
+
+
